@@ -3,3 +3,7 @@ body{
   font-style: italic;
   font-size: 2em;
 }
+p{
+  background-color: pink;
+  font-weight: bold;
+}
