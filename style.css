@@ -2,6 +2,7 @@ body{
   background-color: cyan;
   font-style: italic;
   font-size: 2em;
+  margin: 20px;
 }
 p{
   background-color: pink;
